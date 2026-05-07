@@ -1,6 +1,6 @@
 # ML Prediction API - GCP Cloud Run Deployment
 
-Lifespan prediction and disease risk model API. Deployed as a Cloud Run service.
+Lifespan prediction and disease risk model API. Deployed as a Cloud Run Service
 
 ## Endpoints
 
